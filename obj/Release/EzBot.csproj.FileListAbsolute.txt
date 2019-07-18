@@ -1,0 +1,12 @@
+C:\Users\Work\source\repos\EzBot\bin\Release\EzBot.exe.config
+C:\Users\Work\source\repos\EzBot\bin\Release\EzBot.exe
+C:\Users\Work\source\repos\EzBot\bin\Release\EzBot.pdb
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.AboutAPP.resources
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.AboutMe.resources
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.fMain.resources
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.Properties.Resources.resources
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.csproj.GenerateResource.cache
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.exe
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.pdb
+C:\Users\Work\source\repos\EzBot\obj\Release\EzBot.csprojAssemblyReference.cache
